@@ -1,6 +1,6 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import { Card, CardBody, Heading, Image } from "@chakra-ui/react";
 import { Game } from "../hooks/useGames";
+import { PlatformIconList } from "./PlatformIconList";
 
 interface Props {
   game: Game;
@@ -8,10 +8,13 @@ interface Props {
 
 export const GameCard = ({ game }: Props) => {
   return (
-    <Card>
-      <Image src={game.backgroun_image} />
+    <Card borderRadius={10} overflow="hidden">
+      <Image src={game.background_image} />
       <CardBody>
-        <Heading>{game.name}</Heading>
+        <Heading fontSize="2xl">{game.name}</Heading>
+        <PlatformIconList
+          platform={game.parent_platforms.map((p) => p.platform)}
+        />
       </CardBody>
     </Card>
   );
