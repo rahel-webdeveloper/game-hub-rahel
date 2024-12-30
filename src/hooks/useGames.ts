@@ -1,5 +1,3 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
-import { SiElectron } from "react-icons/si";
 import { useData } from "./useData";
 import { GameQuery } from "../App";
 
