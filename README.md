@@ -67,14 +67,13 @@ The app features a modren UI, advanced search capabilities and responsive design
 
 ## 👐Acknowledgments
 
-- **Mosh Hamedani** for his exceptional on tutrials on TypeScript and React.
+- **Mosh Hamedani** for his exceptional tutrials on TypeScript and React.
 - Libraries and tools used in this project: React, Chakra UI and Rawg limited free API.
 - Spcial thanks to everyone who supports and contributes to this project!
 
 Made with 💜 by **Khatibullah Rahel**
 
 **Follow us on social media**
-
 [LinkdIn](https://www.linkedin.com/in/khatibullah-rahel-a93a74281/)
 [Facebook](https://www.facebook.com/khatibullah.asaad.7)
 [Telegram](https://t.me/rahel_023)
