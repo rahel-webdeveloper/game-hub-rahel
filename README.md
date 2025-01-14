@@ -2,7 +2,7 @@
 
 Game Hub is a modern, responsive web application for discovering video games.
 
-![📷Screenshot](./public/)
+![📷Screenshot](./public/screenshot.jpg)
 
 ## 🌐 Live Demo
 
