@@ -1,6 +1,8 @@
 # 🎮 Game Hub
 
-Game Hub is a modern, responsive web application that serves as a central hub for exploring, discovering, and interacting with video games. Built using React, it offers a seamless and visually engaging experience for gamers.
+Game Hub is a modern, responsive web application for discovering video games.
+
+![📷Screenshot](./public/)
 
 ## 🌐 Live Demo
 
@@ -8,36 +10,34 @@ Check out the live demo here: [Game Hub](https://game-hub-rahel-lchsei6ch-rahels
 
 ---
 
+## 🧐 About the Project
+
+Game Hub is designed for gamers who want a simple yet interactive way to discover trending and popular games.
+The app features a modren UI, advanced search capabilities and responsive design, ensuring accessiblity on all devices.
+
 ## 🛠️ Features
 
 - **Game Library**: Browse through a wide variety of games.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
-- **Search & Filter**: Find games by category, genre, or name.
-- **Interactive Animations**: Smooth transitions using Framer Motion.
-- **TailwindCSS Styling**: Clean and modern UI components.
+- **Search & Filter**: Find games by category, genre, platform or name.
+- **Chakra UI Styling**: Clean and modern UI components.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Frontend**: React, TailwindCSS
-- **Animations**: Framer Motion
-- **Backend**: Appwrite (for APIs and data handling)
-- **AI**: Gemini (for personalized recommendations and insights)
+- **Frontend**: React, Chakra UI
+- **Backend**: Predefined APIs from Rawg website.
 - **Hosting**: Vercel
 
 ---
-
-## 📁 Project Structure
-
-📦game-hub ┣ 📂public ┣ 📂src ┃ ┣ 📂components ┃ ┣ 📂services ┃ ┗ App.jsx ┣ ┣ package.json ┗ README.md
 
 ## 🚧 Installation & Setup
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/game-hub.git
+   git clone [clone URL]
 
    ```
 
@@ -56,9 +56,25 @@ Check out the live demo here: [Game Hub](https://game-hub-rahel-lchsei6ch-rahels
    ```
 
 4. Add environment variables:
-   Add your API keys and other necessary credentials.
+
+   - Create acount in Rawg website
+   - Add your API keys and other necessary credentials.
 
 5. Run the development server:
    ```bash
    npm run dev
    ```
+
+## 👐Acknowledgments
+
+- **Mosh Hamedani** for his exceptional on tutrials on TypeScript and React.
+- Libraries and tools used in this project: React, Chakra UI and Rawg limited free API.
+- Spcial thanks to everyone who supports and contributes to this project!
+
+Made with 💜 by **Khatibullah Rahel**
+
+**Follow us on social media**
+
+[LinkdIn](https://www.linkedin.com/in/khatibullah-rahel-a93a74281/)
+[Facebook](https://www.facebook.com/khatibullah.asaad.7)
+[Telegram](https://t.me/rahel_023)
