@@ -18,7 +18,7 @@ const ExpandableText = ({ children }: Props) => {
     <Text>
       {summary}{" "}
       <Button
-        size="sm"
+        size="xs"
         marginLeft="1"
         fontWeight="bold"
         colorScheme="yellow"
