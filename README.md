@@ -6,7 +6,7 @@ Game Hub is a modern, responsive web application for discovering video games.
 
 ## 🌐 Live Demo
 
-Check out the live demo here: [Game Hub](https://game-hub-rahel-lchsei6ch-rahels-projects-01e97b83.vercel.app/)
+Check out the live demo here: [Game Hub](https://game-hub-rahel.vercel.app/)
 
 ---
 
